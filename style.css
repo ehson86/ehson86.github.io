@@ -1,0 +1,61 @@
+
+.navbar-dark .nav-item .nav-link {
+  color: #fff;
+
+}
+
+
+.navbar-dark .nav-item .nav-link:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+  transition: all 0.3s ease;
+  border-radius: 0.25rem;
+  color: #fff;
+}
+
+.fa-li {
+  position: relative;
+  left: 0;
+}
+
+
+
+
+h1{
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  
+  border-radius: 20px;
+}
+
+
+body {
+
+Color: blue;
+}
+a{
+  color:green;
+}
+stye{
+  color:blue;
+}
+#yes{
+  width: 50px;
+  height: 30px;
+}
+
+
+#special{
+  background-color:white;
+  border: 3px solid black;
+  border-radius: 10px;
+  color:white 
+   padding:10px;
+  text-align:center;
+  cursor: progress;
+}
+img{
+border: dashed;
+height:100px;
+  width:85px;
+}
